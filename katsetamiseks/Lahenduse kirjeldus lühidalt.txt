@@ -1,0 +1,12 @@
+
+Sul on võimalik valida txt fail millest loetakse teksti.
+Sul on võimalik valida või luua uus txt fail millesse kirjutatakse tekst.
+Nupule Count and Sort vajutades loeb program valitud txt failist sisu.
+Eraldab sõnad ühe " " põhjal.
+Kontrollib kas sõnade lõpus on "." või "," ja eemaldab selle.
+Vaatab kas sõna on HashMap'is: jah - lisab sõna väärtusele +1 HashMap's
+			       ei  - lisab sõna ja väärtuse 1 HashMap'i
+Sorteeritakse sõnad sõnade esinemise põhjal.
+Kirjutatakse 'sõna' ja 'mitu korda leiti' paarid kahanevas järjekorras 
+üksteise alla valitud txt faili.
+
